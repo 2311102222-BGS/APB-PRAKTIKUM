@@ -4,7 +4,7 @@
 
 <br>
 <p align="center">
-  <img src="output/logo telkom university.png" width="150"/>
+  <img src="https://github.com/2311102222-BGS/APB-PRAKTIKUM/raw/main/Pertemuan%209/source_code/output/logo%20telkom%20university.png" width="150"/>
 </p>
 <br>
 
@@ -675,24 +675,24 @@ Penjelasan code:
 
 ## 1. Output Container
 
-![Output Container](output/Output%20Container.png)
+![Output Container](https://github.com/2311102222-BGS/APB-PRAKTIKUM/raw/main/Pertemuan%209/source_code/output/Output%20Container.png)
 
 Pada output ini ditampilkan bagian **Container** yang berisi identitas mahasiswa, yaitu nama dan NIM. Container diberi warna gradasi coklat, icon coffee, serta sudut melengkung agar tampilan lebih menarik dan rapi.
 
 ## 2. Output GridView
 
-![Output GridView](output/Output%20GridView.png)
+![Output GridView](https://github.com/2311102222-BGS/APB-PRAKTIKUM/raw/main/Pertemuan%209/source_code/output/Output%20GridView.png)
 
 Pada output ini ditampilkan **GridView Kategori Menu**. GridView digunakan untuk menampilkan menu kategori dalam bentuk kotak-kotak, seperti Coffee, Pastry, Smoothie, Tea, Snacks, dan History.
 
 ## 3. Output ListView dan ListView.builder
 
-![Output ListView dan ListViewBuilder](output/Output%20ListView%20dan%20ListViewBuilder.png)
+![Output ListView dan ListViewBuilder](https://github.com/2311102222-BGS/APB-PRAKTIKUM/raw/main/Pertemuan%209/source_code/output/Output%20ListView%20dan%20ListViewBuilder.png)
 
 Pada output ini ditampilkan bagian **ListView Status Pesanan** dan **ListView.builder Daftar Menu**. ListView digunakan untuk menampilkan tiga status pesanan, yaitu Pesanan Masuk, Sedang Dibuat, dan Siap Diambil. Sedangkan ListView.builder digunakan untuk membuat daftar menu coffee shop secara otomatis berdasarkan data array.
 
 ## 4. Output ListView.separated dan Stack
 
-![Output ListView Separated dan Stack](output/Output%20ListView%20Separated%20dan%20Stack.png)
+![Output ListView Separated dan Stack](https://github.com/2311102222-BGS/APB-PRAKTIKUM/raw/main/Pertemuan%209/source_code/output/Output%20ListView%20Separated%20dan%20Stack.png)
 
 Pada output ini ditampilkan **ListView.separated** dan **Stack Promo Coffee Shop**. ListView.separated digunakan untuk menampilkan daftar minuman dengan garis pembatas antar item. Stack digunakan untuk membuat tampilan promo dengan beberapa widget yang saling bertumpuk, seperti icon coffee, bintang, dan tulisan Coffee Time.

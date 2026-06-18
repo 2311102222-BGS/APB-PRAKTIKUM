@@ -72,7 +72,7 @@ Bagian ini berisi tiga file JavaScript yang mempelajari konsep fundamental JavaS
 
 **File:** `guided/javascript/structure.js`
 
-![Output Struktur Kontrol](guided/javascript/output-structure.png)
+![Output Struktur Kontrol](https://raw.githubusercontent.com/2311102222-BGS/APB-PRAKTIKUM/main/Pertemuan-3/guided/javascript/output-structure.png)
 
 File ini mendemonstrasikan:
 
@@ -86,7 +86,7 @@ File ini mendemonstrasikan:
 
 **File:** `guided/javascript/function.js`
 
-![Output Fungsi](guided/javascript/output-function.png)
+![Output Fungsi](https://raw.githubusercontent.com/2311102222-BGS/APB-PRAKTIKUM/main/Pertemuan-3/guided/javascript/output-function.png)
 
 File ini mendemonstrasikan:
 
@@ -98,7 +98,7 @@ File ini mendemonstrasikan:
 
 **File:** `guided/javascript/array.js`
 
-![Output Array](guided/javascript/output-array.png)
+![Output Array](https://raw.githubusercontent.com/2311102222-BGS/APB-PRAKTIKUM/main/Pertemuan-3/guided/javascript/output-array.png)
 
 File ini mendemonstrasikan:
 
@@ -118,7 +118,7 @@ Bagian ini berisi tiga file HTML yang mempelajari penggunaan jQuery untuk manipu
 
 **File:** `guided/jquery/cdn.html`
 
-![Output CDN jQuery](guided/jquery/output-cdn.png)
+![Output CDN jQuery](https://raw.githubusercontent.com/2311102222-BGS/APB-PRAKTIKUM/main/Pertemuan-3/guided/jquery/output-cdn.png)
 
 File ini mendemonstrasikan cara memuat jQuery dari CDN (Content Delivery Network) menggunakan tag `<script>`. jQuery versi 3.6.0 dari `code.jquery.com` digunakan. Saat dokumen siap (`document.ready`), akan menuliskan "Hello, World!" ke halaman.
 
@@ -130,8 +130,8 @@ File ini mendemonstrasikan cara memuat jQuery dari CDN (Content Delivery Network
 
 **File:** `guided/jquery/toggle.html`
 
-![Output Hide](guided/jquery/output-toggle-hide.png)
-![Output Show](guided/jquery/output-toggle-show.png)
+![Output Hide](https://raw.githubusercontent.com/2311102222-BGS/APB-PRAKTIKUM/main/Pertemuan-3/guided/jquery/output-toggle-hide.png)
+![Output Show](https://raw.githubusercontent.com/2311102222-BGS/APB-PRAKTIKUM/main/Pertemuan-3/guided/jquery/output-toggle-show.png)
 
 File ini mendemonstrasikan event handling untuk menyembunyikan dan menampilkan elemen HTML menggunakan jQuery.
 
@@ -145,8 +145,8 @@ File ini mendemonstrasikan event handling untuk menyembunyikan dan menampilkan e
 
 **File:** `guided/jquery/animate.html`
 
-![Output Sebelum Animasi](guided/jquery/output-animate-before.png)
-![Output Setelah Animasi](guided/jquery/output-animate-after.png)
+![Output Sebelum Animasi](https://raw.githubusercontent.com/2311102222-BGS/APB-PRAKTIKUM/main/Pertemuan-3/guided/jquery/output-animate-before.png)
+![Output Setelah Animasi](https://raw.githubusercontent.com/2311102222-BGS/APB-PRAKTIKUM/main/Pertemuan-3/guided/jquery/output-animate-after.png)
 
 File ini mendemonstrasikan method `animate()` jQuery untuk membuat efek toggle ketinggian elemen `div`.
 
@@ -165,11 +165,11 @@ File ini mendemonstrasikan method `animate()` jQuery untuk membuat efek toggle k
 
 **Tampilan Halaman Utama:**
 
-![Halaman Utama Ramadan THR](unguided/output-main.png)
+![Halaman Utama Ramadan THR](https://raw.githubusercontent.com/2311102222-BGS/APB-PRAKTIKUM/main/Pertemuan-3/unguided/output-main.png)
 
 **Tampilan Modal Popup:**
 
-![Modal Popup THR](unguided/output-popup.png)
+![Modal Popup THR](https://raw.githubusercontent.com/2311102222-BGS/APB-PRAKTIKUM/main/Pertemuan-3/unguided/output-popup.png)
 
 Halaman ini merupakan tugas mandiri berupa halaman interaktif bertema **Ramadan 1447 H** dengan desain neurobrutalist. Halaman ini menggunakan jQuery untuk interaktivitas dan menampilkan konsep THR (Tunjangan Hari Raya) secara visual.
 

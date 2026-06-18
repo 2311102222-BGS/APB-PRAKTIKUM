@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img src="output/logo telkom university.png" width="150"/>
+  <img src="https://github.com/2311102222-BGS/APB-PRAKTIKUM/raw/main/Pertemuan%2011/source_code/output/logo%20telkom%20university.png " width="150"/>
 </p>
 <br>
 
@@ -511,10 +511,10 @@ Fungsi:
 # Output Program
 
 ### Home Page
-![Home Page](https://raw.githubusercontent.com/Aplikasi-Berbasis-Platform-S1IF-11-04/Pertemuan-11-Mobile/main/Muhammad%20Rafiful%20Hana%20-%202311102222/source_code/output/Output%201.png)
+![Home Page](https://github.com/2311102222-BGS/APB-PRAKTIKUM/raw/refs/heads/main/Pertemuan%2011/source_code/output/Output%201.png)
 
 ### Button Page
-![Button Page](https://raw.githubusercontent.com/Aplikasi-Berbasis-Platform-S1IF-11-04/Pertemuan-11-Mobile/main/Muhammad%20Rafiful%20Hana%20-%202311102222/source_code/output/Output%202.png)
+![Button Page](output/)
 
 ### Profile Page
 ![Profile Page](https://raw.githubusercontent.com/Aplikasi-Berbasis-Platform-S1IF-11-04/Pertemuan-11-Mobile/main/Muhammad%20Rafiful%20Hana%20-%202311102222/source_code/output/Output%203.png)
